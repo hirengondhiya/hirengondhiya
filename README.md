@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Hiren Gondhiya 👋
 
 <!--
 **hirengondhiya/hirengondhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Who's Hiren Gondhiya?
+
+I am Full Stack Engineer based in Sydney, Australia. I started my programming journey back in 2000 with C Programming during my education. During my education and professional career I have leaned and built applications in using many languages including C, C++, C#, Ruby and currently I am in love with JavaScript :two_hearts:
