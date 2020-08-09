@@ -1,6 +1,6 @@
 <p align='center'>
-<a href="https://twitter.com/hirengondhiya"><img height="30" src="https://github.com/hirengondhiya/hirengondhiya/assets/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hirengondhiya/"><img height="30" src="https://github.com/hirengondhiya/hirengondhiya/assets/images/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/hirengondhiya"><img height="30" src="https://github.com/hirengondhiya/hirengondhiya/blob/master/assets/images/twitter.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hirengondhiya/"><img height="30" src="https://github.com/hirengondhiya/hirengondhiya/blob/master/assets/images/linkedin.png?raw=true"></a>
 </p>
 ### Hi there, I am Hiren Gondhiya 👋
 
