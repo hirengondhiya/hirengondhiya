@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 
 I am a Full Stack Engineer based in Sydney, Australia. I started my programming journey with C Programming. During my education and professional career, I have learned and built various applications using many languages such as C, C++, C#, Ruby, and at present,  I am in love with JavaScript :two_hearts:
 
-I started my professional career with Microsoft .Net stack and then moved to SharePoint Development and currently developing Full Stack Applications using JavaScript.
