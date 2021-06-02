@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Engineer based in Sydney, Australia. I started my programming journey with C Programming. During my education and professional career, I have learned and built various applications using many languages such as C, C++, C#, Ruby, and at present,  I am in love with JavaScript :two_hearts:
+I am a Full Stack Engineer based in Sydney, Australia. Sixteen years ago I started my programming journey with C Programming. During my education and professional career, I have learned and built various applications using many languages such as C, C++, C#, Ruby, and at present,  I am in love with JavaScript :two_hearts:
 
